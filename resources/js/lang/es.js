@@ -532,9 +532,9 @@ export default {
         10: {
             "name": "Nuevo Gobierno",
             "sections": {
-                1: "Pleased with your work so far, Jekserah has invited you to join her undead invasion of the city. She plans to overthrow the military and put the Merchant's Guild in control.",
-                2: "You aided Jekserah in overthrowing the military. The city guard fought back, but their pitiful mortal bodies were no match for the overwhelming onslaught of the undead and the might of your blades. Every guard that fell bolstered the undead's ranks. When the Captain of the Guard fell, the remaining guards fled like the cowards you always knew they were. Jekserah's bodyguards were killed during the invasion, but so much the better for you. You are now Jekserah's new right hand and Merchant Guild rules the city.",
-                3: "Overthrowing the military was not part of your plan. You spurned Jekserah's invitation and sided with the city guard against the invasion. Jekserah is dead by your hand."
+                1: "Satisfecha con vuestro trabajo hasta ahora, Jekserah os invitó a uniros a su invasión de no muertos con la que planea derrocar a los militares de Gloomhaven y poner el control de la ciudad en las manos de la Hermandad de Comerciantes.",
+                2: "Ayudasteis a Jekserah a derrocar a los militares. Los soldados de la ciudad se defendieron, pero sus lastimosos cuerpos mortales no pudieron competir con el aplastante ataque de los no muertos y el poder de vuestras armas. Cada guardia que caía hacía crecer el ejército de los no muertos. Cuando cayó el Capitán de la Guardia, los guardias restantes huyeron como los cobardes que siempre supisteis que eran. Ya que los guardaespaldas Inox de Jekserah murieron durante la invasión y ahora seréis su nueva mano derecha. La Hermandad de Comerciantes gobierna la ciudad.",
+                3: "Derrocar a los militares no era parte de vuestro plan. Rechazásteis la invitación de Jekserah y os pusísteis del lado de la guardia de la ciudad contra la invasión de no muertos. Después de una ardua batalla contra las filas de no muertos, llegásteis hasta Jekserah a la que matásteis. Mientras su vida se escapaba de sus ojos os lanzó unas advertencias."
             },
             "stages": {
                 0: "{1}",
